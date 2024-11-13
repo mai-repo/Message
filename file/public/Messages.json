@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "User": "Abbie",
+        "Message": "Daaimah, you're the best",
+        "Photo": "/Abbie.jpeg"
+    },
+    {
+        "id": 2,
+        "User": "Mai",
+        "Message": "Best STEM ever!",
+        "Photo": "./Mai.jpeg"
+    }
+]
