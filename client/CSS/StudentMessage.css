@@ -1,0 +1,22 @@
+.Message_Container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.image {
+    display: flex 1;
+    padding: 2.8em;
+    width: 50%;
+    height: 50%;
+}
+
+.image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
+
+.classmates{
+    display: flex 1;
+    justify-content: space-evenly;
+}

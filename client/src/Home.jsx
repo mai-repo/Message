@@ -1,8 +1,12 @@
-
+import StudentMessages from './StudentMessages';
+import '../CSS/Home.css'
 
 function Home() {
   return (
-    <div>Home</div>
+   <>
+   <h1>Messages from Techtonica Cohort 2024</h1>
+   <StudentMessages/>
+   </>
   )
 }
 

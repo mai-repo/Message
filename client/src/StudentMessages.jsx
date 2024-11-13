@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Messages from './Messages.json';
+import '../CSS/StudentMessage.css'
 
 function StudentMessages() {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -12,18 +13,20 @@ function StudentMessages() {
 
   return (
     <>
-    <div className='Message Container'>
-            
-      <div key={student.id} id={student.id}>
-        <p>{student.User}</p>
-        <img src={student.Photo} alt={`${student.User}'s photo`} />
-        <p>{student.Message}</p>
+      <div className='Message_Container'>
+
+        <div className='image' key={student.id} id={student.id}>
+
+          <img src={student.Photo} alt={`${student.User}'s photo`} />
+
+        </div>
+
+        <div className='classmates'>
+          <h1 className='h1'>{student.User}</h1>
+          <p>{student.Message}</p>
+          <button onClick={fetchStudents}>Click to See the Next Post</button>
+        </div>
       </div>
-      
-      <div>
-        <button onClick={fetchStudents}>Click to See the Next Post</button>
-      </div>
-    </div>
 
     </>
   );
