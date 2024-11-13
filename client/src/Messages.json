@@ -10,5 +10,11 @@
         "User": "Mai",
         "Message": "Best STEM ever!",
         "Photo": "./Mai.jpg"
+    }, 
+    {
+        "id": 3,
+        "User": "MJ",
+        "Message": "I am beyond grateful for your guidance and support throughout this journey. Your patience, wisdom, and genuine care have made a lasting impact on me, not only as a developer but as a person. You've shown me the importance of resilience, the power of learning through challenges, and the value of a nurturing community.",
+        "Photo": "./MJ.jpg"  
     }
 ]
