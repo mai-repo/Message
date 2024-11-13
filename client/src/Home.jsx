@@ -4,7 +4,7 @@ import '../CSS/Home.css'
 function Home() {
   return (
    <>
-   <h1>Messages from Techtonica Cohort 2024 H2</h1>
+   <h1 className='message'>Messages from Techtonica Cohort 2024 H2</h1>
    <StudentMessages/>
    </>
   )

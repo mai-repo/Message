@@ -1,7 +1,19 @@
 h1{
     display: flex;
     justify-content: space-evenly;
-    font-size: 3em;
+    font-size: 2.5em;
+    background-color: rgb(123, 146, 236);
+    border: 2.5px solid rgb(0, 0, 0);    
+    color:rgb(255, 255, 253);
+    padding: .2em;
+}
+
+*{
+    
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+      
 }
 
 button{
@@ -15,3 +27,10 @@ body {
     background-image: url('/Background.png');
     background-size: contain; 
 }
+
+.message{
+    margin-top: 1.05em;
+    padding: .5em;
+    border-radius: 15px;
+}
+

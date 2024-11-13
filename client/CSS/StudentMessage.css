@@ -7,6 +7,7 @@
     display: flex;
     justify-content: flex-end;
     margin: 4em;
+    margin-top: 2em;
     width: 60%;
     height: 60%;
 }
@@ -23,9 +24,10 @@
     display: flex 1;
     justify-content: flex-start;
     margin: 4em;
+    margin-top: 2em;
     border-radius: 30px;
     background-color: rgba(255, 255, 255, 0.928);
-    padding: 3em;
+    padding: 2em;
     border: 2.5px solid rgb(0, 0, 0);
     width: 50%;
     box-sizing: border-box;
