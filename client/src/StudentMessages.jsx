@@ -23,7 +23,7 @@ function StudentMessages() {
 
         <div className='classmates'>
           <h1 className='h1'>{student.User}</h1>
-          <p>{student.Message}</p>
+          <p className='description'>{student.Message}</p>
           <button onClick={fetchStudents}>Click to See the Next Post</button>
         </div>
       </div>
