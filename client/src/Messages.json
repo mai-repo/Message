@@ -32,7 +32,7 @@
     {
         "id": 6,
         "User": "MJ",
-        "Message": "I am beyond grateful for your guidance and support throughout this journey. Your patience, wisdom, and genuine care have made a lasting impact on me, not only as a developer but as a person. You've shown me the importance of resilience, the power of learning through challenges, and the value of a nurturing community.",
+        "Message": "I’m always in awe of your ability to juggle so many responsibilities—managing 14 students, balancing your daily life, and supporting applicants. Your resilience is truly remarkable, and you have an exceptional talent for holding everyone accountable. A great example of this is in our morning stand-ups, which can often feel sluggish and low-energy. Yet, you consistently bring light and positivity to each meeting, even on days when you're dealing with things outside of work. We’ve all come to rely on that vibrancy you bring, and I hope you find moments to recharge, because you truly deserve rest and care, just as you've always shown for all of us.",
         "Photo": "./MJ.jpg"  
     },
  
@@ -74,9 +74,9 @@
     },
     {
         "id": 13,
-        "User": "Vanessa",
-        "Message": "Daaimah, you were my rock and I couldn't have graduated without you! Thank you for your generosity in time, energy,  and dedication.",
-        "Photo": "./Vanessa.jpg"
+        "User": "Vivian",
+        "Message": "You are the cats pajamas Daaimah. I can't thank you enough for what you've done for me. I went from being homeless to a full stack software engineer because you believed in me. I will always be grateful for being one of the people you saw potential in ❤️",
+        "Photo": "./Vivian.jpg"
     },
     {
         "id": 14,
