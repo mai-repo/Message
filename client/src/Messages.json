@@ -7,14 +7,81 @@
     },
     {
         "id": 2,
+        "User": "Anta",
+        "Message": "You are so intelligent and always explain difficult topics in way that makes it easy to understand. Thank you for always ready to help, you really do make it easy to ask for help.",
+        "Photo": "./Anta.jpeg"
+    }, 
+    {
+        "id": 3,
+        "User": "Christina",
+        "Message": "I just wanted to take a second to say thank you for everything. You’ve been such a big help throughout this whole program, and honestly, I don’t think I could’ve made it through without your support. You’ve made learning to code feel fun and exciting, and your patience with me has meant the world. I really appreciate how you’ve been there to guide me every step of the way, answering questions and making sure I never felt lost. You’re like a beacon of light in this whole process, and I feel so lucky to have had you helping me. Thanks for being so amazing!",
+        "Photo": "./Christina.jpg"
+    }, 
+    {
+        "id": 4,
+        "User": "Juliana",
+        "Message": "Thank you for dedicating the last five months to our cohort! You gave so much of yourself and your time to us, and it does not go unnoticed. Your bubbliness and candidness kept us afloat all this time and allowed us to push through our growing pains. Showing up so authentic every day created the space for us to do the same. Thank you again for simply being you!",
+        "Photo": "./Juliana.png"
+    }, 
+    {
+        "id": 5,
         "User": "Mai",
         "Message": "Best STEM ever!",
         "Photo": "./Mai.jpg"
     }, 
     {
-        "id": 3,
+        "id": 6,
         "User": "MJ",
         "Message": "I am beyond grateful for your guidance and support throughout this journey. Your patience, wisdom, and genuine care have made a lasting impact on me, not only as a developer but as a person. You've shown me the importance of resilience, the power of learning through challenges, and the value of a nurturing community.",
         "Photo": "./MJ.jpg"  
+    },
+ 
+    {
+        "id": 7,
+        "User": "My Tuyen",
+        "Message": "Thank you for being a guiding light for us during our time at Techtonica and for your hard work everyday that makes this program a reality 💕",
+        "Photo": "./MyTuyen.jpeg"
+    },
+    {
+        "id": 8,
+        "User": "Nia",
+        "Message": "Thank you so much for all that you do! It doesn't go unnoticed or unappreciated! I feel very grateful to have you as STEM. The way you approached each conversation with intention made me feel seen and heard. I appreciated how you would always make time to speak with everyone AND to be present for everyone. I know that wasn't easy, especially given that there's 14 of us! I love that you constantly encouraged us and brought energy to our group meetings, even when we would just sit silently! Hopefully, you're taking time for wellness and sticking to your WRAP *eyeball emoji*! The work you've done and attention you've given to this cohort was invaluable. Thank you!!!",
+        "Photo": "./Nia.jpg"
+    },
+    {
+        "id": 9,
+        "User": "Steph",
+        "Message": "*truly* the best STEM ever! not only do you always come to program with unwavering positive energy, but you're so understanding and compassionate. you've helped myself and so many others in the cohort, even if we just needed someone to vent to. we appreciate you Daamiah! <3",
+        "Photo": "./Steph.png"
+    },
+    {
+        "id": 10,
+        "User": "Tati",
+        "Message": "Thank you for being our leader, our safe space, our support system, and our biggest cheerleader! You change lives every day just by being yourself, and you set an incredible example of what it means to give something your all while also taking care of yourself. I feel so lucky to have learned from you. Thank you for being the absolute best, Daaimah!",
+        "Photo": "./Tati.png"
+    },
+    {
+        "id": 11,
+        "User": "Thane",
+        "Message": "You have been so incredibly supportive and understanding throughout this whole journey and have made a massive impact in helping to develop my ability to ask for what I need without fear or shame. Thank you so much 💜",
+        "Photo": "./Thane.jpg"
+    },
+    {
+        "id": 12,
+        "User": "Vanessa",
+        "Message": "Daaimah, you were my rock and I couldn't have graduated without you! Thank you for your generosity in time, energy,  and dedication.",
+        "Photo": "./Vanessa.jpg"
+    },
+    {
+        "id": 13,
+        "User": "Vanessa",
+        "Message": "Daaimah, you were my rock and I couldn't have graduated without you! Thank you for your generosity in time, energy,  and dedication.",
+        "Photo": "./Vanessa.jpg"
+    },
+    {
+        "id": 14,
+        "User": "Xiahui",
+        "Message": "You are truly amazing, Daaimah! Your boundless energy, attention to detail, and unwavering support have made such a positive impact on my learning journey.",
+        "Photo": "./Xiahui Zhang.jpg"
     }
 ]
